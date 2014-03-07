@@ -4,7 +4,7 @@
  * 
  * Input: 	Filename and path as a single argument. File contains
  * 			RNA sequence of ONLY a, u, g, c, space, cr and line break
- *			characters.
+ *			characters. Sample RNA sequences can be found in ./tests
  * Output:	The sequence in three columns: index, base at index, base 
  *			paired with base at index. -1 denotes unpaired base.
  *			Default prints to System.out. 
