@@ -1,5 +1,4 @@
-# Implementation of base-pair maximising algorithm to predict RNA 
-secondary structure. 
+# Implementation of base-pair maximising algorithm to predict RNA secondary structure. 
  
 #### Input: 
 Filename and path as a single argument. File contains RNA sequence 
