@@ -10,6 +10,6 @@ The sequence in three columns: index, base at index, base paired with
 base at index. -1 denotes unpaired base. Default prints to System.out. 
 
 For an explanation of how the algorithm works and what it is trying to 
-achieve, please see the included pdf article.
+achieve, please see the included pdf article I authored.
 
 Author: Sebastian Dunn, 2013.
